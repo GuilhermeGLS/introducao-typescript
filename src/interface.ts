@@ -16,18 +16,18 @@ interface User {
     maior: boolean
     estado: "solteiro" | "casado"
 }
-let usuario: User
+// let usuario: User
 
 
 
 
 // Só para de dar erro quando todas as variavéis do objeto serem prenchidas 
-usuario = {
-    nome: "Guilherme",
-    idade: 19,
-    maior: true,
-    estado: "solteiro"
-};
+// usuario = {
+//     nome: "Guilherme",
+//     idade: 19,
+//     maior: true,
+//     estado: "solteiro"
+// };
 
 const printUser = (user: User) => {
     console.log(user.nome)
