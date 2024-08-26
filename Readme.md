@@ -13,4 +13,5 @@ Onde depois você executa no console/node
 
 Também possui uma forma de dar log/usar o node já no arquivo ts 
 <!-- ferramenta do ts -->
- npx ts-node
+ npx ts-node (caminho do arquivo)
+ 
